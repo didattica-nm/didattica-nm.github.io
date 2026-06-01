@@ -101,7 +101,7 @@ public class MinPriorityQueue
 Allegati
 ---
 
-- [Web Slides](https://nickolausenteaching.github.io/heap-dsa/#/)
+- [Web Slides](https://didattica-nm.github.io/heap-dsa/#/)
 
 Note: Ricorda che in pseudocodice gli array iniziano da 1!
 

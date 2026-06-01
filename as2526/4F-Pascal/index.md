@@ -18,7 +18,7 @@ Materiale condiviso & attività
 ---
 
 ### UD: "Introduzione al Web"
-- [[Dispense] Introduzione al Web — HTML, CSS & JavaScript](https://nickolausenteaching.github.io/web-01/#/)
+- [[Dispense] Introduzione al Web — HTML, CSS & JavaScript](https://didattica-nm.github.io/web-01/#/)
 
 Registro delle lezioni
 ---

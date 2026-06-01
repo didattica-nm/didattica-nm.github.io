@@ -19,8 +19,8 @@ Materiale condiviso & attività
 
 ### UD: "Algoritmi e Strutture Dati - la codifica di Huffman"
 
-- [[Dispense] La struttura dati **heap** e i suoi utilizzi.](https://nickolausenteaching.github.io/heap-dsa/#/)
-- [\[Dispense\] La compressione e la **codifica di Huffman**.](https://nickolausenteaching.github.io/huffman/)
+- [[Dispense] La struttura dati **heap** e i suoi utilizzi.](https://didattica-nm.github.io/heap-dsa/#/)
+- [\[Dispense\] La compressione e la **codifica di Huffman**.](https://didattica-nm.github.io/huffman/)
 - [[Attività laboratoriale] Parte #01: Implementazione di una priority queue mediante MinHeap.](UD/huffman/heap-impl.md)
 - [[Attività laboratoriale] Parte #02: Costruzione di una tabella di frequenze dei caratteri.](UD/huffman/char-frequency.md)
 - [\[Attività laboratoriale\] Parte #03: Costruzione dell'albero di Huffman.](UD/huffman/build-huffman-tree.md)
