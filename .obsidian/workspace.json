@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2526/3M-Pascal/index.md",
+                "file": "navigation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "navigation"
             }
           },
           {
@@ -221,11 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7223038d7c3a0962",
+  "active": "01bb09258eae0970",
   "lastOpenFiles": [
+    "index.md",
+    "as2526/3M-Pascal/index.md",
     "as2526/3M-Pascal/UD/huffman/huffman-encode.md",
     "as2526/3M-Pascal/UD/huffman/heap-impl.md",
-    "as2526/3M-Pascal/index.md",
     "as2526/3M-Pascal/UD/huffman/huffman-tree-traversal.md",
     "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
     "as2526/3M-Pascal/UD/huffman/assets/navigazione-heap.png",
@@ -237,7 +238,6 @@
     "as2526/3M-Pascal/UD/huffman/assets/input02.txt",
     "as2526/3M-Pascal/UD/huffman/assets/input01.txt",
     "as2526/3M-Pascal/UD/huffman/assets/input03.txt",
-    "index.md",
     "as2526/supplenze-pascal/index.md",
     "script.js",
     "materials/tdd/MathSetTest.kt",
