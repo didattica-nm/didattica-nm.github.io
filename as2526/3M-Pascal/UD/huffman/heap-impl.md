@@ -113,3 +113,5 @@ Note: Ricorda che in pseudocodice gli array iniziano da 1!
 
 ![](assets/increase-key.png)
 ![](assets/build-max-heap.png)
+
+![max-heap-insert.png](assets/max-heap-insert.png)
