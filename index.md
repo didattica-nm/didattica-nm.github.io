@@ -10,4 +10,4 @@ Sito di raccolta di materiale didattico potenzialmente utile di [@Nicholas Magi]
 Ultimi aggiornamenti
 ---------
 
-Note: **Classe 3M**: vista la difficoltà di molti di voi a partire con l'esercitazione su `MinHeap`, ho aggiunto — in corrispondenza della pagina delle specifiche della consegna — una possibile struttura iniziale della classe. [\[Link alla consegna\]](as2526/3M-Pascal/UD/huffman/heap-impl.md) 
+Nulla da dire al momento ;-(

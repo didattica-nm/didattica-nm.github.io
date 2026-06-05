@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "corsi/react-for-dummies.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "react-for-dummies"
+              "title": "index"
             }
           },
           {
@@ -115,8 +115,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,9 +237,10 @@
   },
   "active": "70fd6b05dbdb8754",
   "lastOpenFiles": [
+    "navigation.md",
+    "corsi/react-for-dummies.md",
     "as2526/supplenze-pascal/index.md",
     "utils/templates/class.md",
-    "navigation.md",
     "as2526/3M-Pascal/UD/huffman/heap-impl.md",
     "as2526/3M-Pascal/UD/huffman/assets/max-heap-insert.png",
     "as2526/3M-Pascal/index.md",
