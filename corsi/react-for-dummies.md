@@ -10,8 +10,8 @@ Informazioni tecniche
     * ⁠⁠⁠venerdì 07 marzo 2025, 14:30-16:30 in L1 
     * ⁠⁠martedì 11 marzo 2025, 14:30-16:30 in L1
     * ⁠⁠martedì 18 marzo 2025, 14:30-16:30 in L1 
-    * ⁠<del>venerdì 21 marzo 2025, 14:30-16:30 in L1</del></li>
-    * ⁠<ins>martedì 25 marzo 2025, 14:30-16:30 in L1</ins></li>
+    * ⁠<del>venerdì 21 marzo 2025, 14:30-16:30 in L1</del>
+    * ⁠<ins>martedì 25 marzo 2025, 14:30-16:30 in L1</ins>
 
 Contenuti del corso
 ---
