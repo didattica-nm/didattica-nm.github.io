@@ -41,28 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "navigation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "navigation"
             }
           },
           {
             "id": "9117741db3326bc2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png"
+                "file": "navigation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "tree-traversal"
+              "icon": "lucide-file",
+              "title": "navigation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,9 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70fd6b05dbdb8754",
+  "active": "9117741db3326bc2",
   "lastOpenFiles": [
+    "web.spaggiari.eu.md",
+    "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
     "navigation.md",
+    "index.md",
     "corsi/react-for-dummies.md",
     "as2526/supplenze-pascal/index.md",
     "utils/templates/class.md",
@@ -245,10 +250,8 @@
     "as2526/3M-Pascal/UD/huffman/assets/max-heap-insert.png",
     "as2526/3M-Pascal/index.md",
     "2026-06-01.md",
-    "index.md",
     "as2526/3M-Pascal/UD/huffman/huffman-encode.md",
     "as2526/3M-Pascal/UD/huffman/huffman-tree-traversal.md",
-    "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
     "as2526/3M-Pascal/UD/huffman/assets/navigazione-heap.png",
     "as2526/4F-Pascal/index.md",
     "as2526/3M-Pascal/UD/huffman/build-huffman-tree.md",
