@@ -4,7 +4,7 @@ Risorse online doom-scrolling-proof
 Pagina in continuo aggiornamento su contenuti interessanti, spunti di lezioni & tanto altro consigliati, tipicamente, dal mio algoritmo di raccomandazione di YouTube ;-)
 
 Video / playlists
-===
+---
 
 - Dal canale "Premature Abstraction", playlist [*Compilers*](https://www.youtube.com/watch?v=zA5iLLP9v-I&list=PL6whQ6CW68oe3tcmFcBLYFQChqwYEaG7_) #cs #compilers
 - Argomenti sparsi, canale ["PawelCodeStuff"](https://www.youtube.com/@pawel_code_stuff) #cs #general
@@ -20,7 +20,7 @@ Video / playlists
 - [*How Kubernetes works*](https://www.youtube.com/watch?v=daVUONZqn88), dal canale "Microsoft Azure" #cs #kubernetes #virtualization
 
 News
-===
+---
 
 Alcuni canali tramite cui rimanere informati:
 - [@ThePrimeagen](https://www.youtube.com/@ThePrimeagen) #cs #web-dev
@@ -28,7 +28,7 @@ Alcuni canali tramite cui rimanere informati:
 - [@Kevin Powell](https://www.youtube.com/@KevinPowell), il re del CSS #niche #cs #css #web-dev
 
 Letture
-===
+---
 - [How to read a paper](/materials/blog/how-to-read-a-paper.pdf)
 	- consigli di un accademico per leggere correttamente i paper accademici
 - [Attention Is All You Need](/materials/blog/attention-is-all-you-need.pdf)
@@ -38,7 +38,7 @@ Letture
 	- adatto alle giovani età
 
 Blog & siti web
-===
+---
 
 - Corso [CS50](https://cs50.harvard.edu/x/) di Harvard, ottimo corso di introduzione su cos'è l'informatica. #intro #cs
 	- spunti validi per le infrastrutture da loro prodotte a scópi didattici
