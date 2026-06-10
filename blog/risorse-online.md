@@ -1,6 +1,8 @@
 Risorse online doom-scrolling-proof
 ===
 
+Pagina in continuo aggiornamento su contenuti interessanti, spunti di lezioni & tanto altro consigliati, tipicamente, dal mio algoritmo di raccomandazione di YouTube ;-)
+
 Video / playlists
 ===
 
