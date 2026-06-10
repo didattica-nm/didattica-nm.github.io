@@ -36,7 +36,6 @@ Letture
 - [CS Unplugged - versione italiana](/materials/blog/CS_Unplugged-it-10.2009.pdf)
 	- libro di esercizi per far comprendere l'informatica giocando
 	- adatto alle giovani età
-- 
 
 Blog & siti web
 ===
