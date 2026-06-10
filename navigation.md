@@ -17,5 +17,8 @@
 * [Motore di ricerca commissioni Esame di Maturità](https://matesami.pubblica.istruzione.it/VisualizzaCommissioniEsami/indirizzi/ricerca?pk_vid=ac316db946c14b13152785106297a776)
 * [RE ClasseViva](https://web.spaggiari.eu)
 
+[Blog]()
+- [Risorse Online]()
+
 [gimmick:theme](brite)
 [gimmick: math]()
