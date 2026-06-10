@@ -18,7 +18,8 @@
 * [RE ClasseViva](https://web.spaggiari.eu)
 
 [Blog]()
-- [Risorse Online]()
+
+- [Risorse Online](blog/risorse-online.md)
 
 [gimmick:theme](brite)
 [gimmick: math]()
