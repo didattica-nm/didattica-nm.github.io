@@ -35,7 +35,8 @@ Letture
 	- paper che ha segnato la storia dell'Intelligenza Artificiale, definendo l'architettura dei Transformers
 - [CS Unplugged - versione italiana](/materials/blog/CS_Unplugged-it-10.2009.pdf)
 	- libro di esercizi per far comprendere l'informatica giocando
-	- adatto alle giovani età
+	- adatto soprattutto ai più giovani
+	- non è richiesto l'utilizzo del computer!
 
 Blog & siti web
 ---
