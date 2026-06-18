@@ -18,6 +18,7 @@ Video / playlists
 - Canale [@Primer](https://www.youtube.com/@PrimerBlobs), per argomenti sparsi (correlati all'informatica e matematica) #cs #math #general
 - Canale [@Spanning Tree](https://www.youtube.com/@SpanningTree), sul podio insieme a 3Blue1Brown per chiarezza espositiva e visualizzazione dei concetti #cs
 - [*How Kubernetes works*](https://www.youtube.com/watch?v=daVUONZqn88), dal canale "Microsoft Azure" #cs #kubernetes #virtualization
+- [*Why the Best Codebases Barely Use Inheritance Anymore ?*](https://www.youtube.com/watch?v=pbsTy5V_pxA), dal canale "*CsMadeEz*" #cs #oop
 
 News
 ---
@@ -26,6 +27,8 @@ Alcuni canali tramite cui rimanere informati:
 - [@ThePrimeagen](https://www.youtube.com/@ThePrimeagen) #cs #web-dev
 - [@WebDevSimplified](https://www.youtube.com/@WebDevSimplified) #cs #web-dev
 - [@Kevin Powell](https://www.youtube.com/@KevinPowell), il re del CSS #niche #cs #css #web-dev
+
+- [*The company whose 'AI' was actually 700 humans in India*](https://ia.acs.org.au/article/2025/the-company-whose--ai--was-actually-700-humans-in-india.html), articolo di David Braue su Information Age
 
 Letture
 ---
