@@ -24,11 +24,13 @@ News
 ---
 
 Alcuni canali tramite cui rimanere informati:
+
 - [@ThePrimeagen](https://www.youtube.com/@ThePrimeagen) #cs #web-dev
 - [@WebDevSimplified](https://www.youtube.com/@WebDevSimplified) #cs #web-dev
 - [@Kevin Powell](https://www.youtube.com/@KevinPowell), il re del CSS #niche #cs #css #web-dev
 
 - [*The company whose 'AI' was actually 700 humans in India*](https://ia.acs.org.au/article/2025/the-company-whose--ai--was-actually-700-humans-in-india.html), articolo di David Braue su Information Age
+	- semi-smentito qui: https://newsletter.pragmaticengineer.com/p/the-pulse-137
 
 Letture
 ---

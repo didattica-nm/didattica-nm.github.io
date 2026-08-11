@@ -4,6 +4,7 @@ Corso PNRR 2025 "*React For Dummies*"
 Informazioni tecniche
 ---
 
+- Sede: Istituto Tecnico Tecnologico "Blaise Pascal" - Piazzale Cino Macrelli 100, Cesena (FC)
 * Corso STEM;
 * 10h totali, suddivise in 5 lezioni pomeridiane di 2h ciascuna; calendario:
     * martedì 04 marzo 2025, 14:30-16:30 in L1 
