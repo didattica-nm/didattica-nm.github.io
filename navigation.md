@@ -1,5 +1,7 @@
 # $ ~didattica-nm 
 
+[Didattica](/index.md#Didattica)
+
 [Corsi]()
 
   * [Corso PNRR "React for Dummies"](corsi/react-for-dummies.md)
