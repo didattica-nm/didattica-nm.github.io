@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/risorse-online.md",
+                "file": "navigation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "risorse-online"
+              "title": "navigation"
             }
           },
           {
@@ -265,8 +265,9 @@
   },
   "active": "0110c8a82c954e34",
   "lastOpenFiles": [
-    "corsi/react-for-dummies.md",
+    "index.md",
     "blog/risorse-online.md",
+    "corsi/react-for-dummies.md",
     "navigation.md",
     "materials/blog/CS_Unplugged-it-10.2009.pdf",
     "materials/blog/attention-is-all-you-need.pdf",
@@ -276,7 +277,6 @@
     "materials/How to read a paper.pdf",
     "materials/Attention Is All You Need.pdf",
     "materials/blog",
-    "index.md",
     "blog",
     "web.spaggiari.eu.md",
     "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",

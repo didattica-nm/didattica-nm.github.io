@@ -27,10 +27,7 @@ Alcuni canali tramite cui rimanere informati:
 
 - [@ThePrimeagen](https://www.youtube.com/@ThePrimeagen) #cs #web-dev
 - [@WebDevSimplified](https://www.youtube.com/@WebDevSimplified) #cs #web-dev
-- [@Kevin Powell](https://www.youtube.com/@KevinPowell), il re del CSS #niche #cs #css #web-dev
-
-- [*The company whose 'AI' was actually 700 humans in India*](https://ia.acs.org.au/article/2025/the-company-whose--ai--was-actually-700-humans-in-india.html), articolo di David Braue su Information Age
-	- semi-smentito qui: https://newsletter.pragmaticengineer.com/p/the-pulse-137
+- [@Kevin Powell](https://www.youtube.com/@KevinPowell) #niche #cs #css #web-dev
 
 Letture
 ---
@@ -42,6 +39,9 @@ Letture
 	- libro di esercizi per far comprendere l'informatica giocando
 	- adatto soprattutto ai più giovani
 	- non è richiesto l'utilizzo del computer!
+- [*The company whose 'AI' was actually 700 humans in India*](https://ia.acs.org.au/article/2025/the-company-whose--ai--was-actually-700-humans-in-india.html), articolo di David Braue su Information Age
+	- semi-smentito qui: https://newsletter.pragmaticengineer.com/p/the-pulse-137
+- [*Kotlin - An Illustrated Guide*, Dave Leeds](https://typealias.com/start/)
 
 Blog & siti web
 ---
@@ -50,4 +50,4 @@ Blog & siti web
 	- spunti validi per le infrastrutture da loro prodotte a scópi didattici
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 	- corsi del Massachusets Institute of Technology **rilasciati gratuitamente**.
-
+- [ACM Digital Library - *the authoritative research, discovery, and publishing platform for computing and information technology*](https://dl.acm.org/)
