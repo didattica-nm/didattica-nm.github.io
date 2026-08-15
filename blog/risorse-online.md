@@ -43,7 +43,7 @@ Letture
 	- semi-smentito qui: https://newsletter.pragmaticengineer.com/p/the-pulse-137
 - [*Kotlin - An Illustrated Guide*, Dave Leeds](https://typealias.com/start/)
 
-Blog & siti web
+Risorse accademiche
 ---
 
 - Corso [CS50](https://cs50.harvard.edu/x/) di Harvard, ottimo corso di introduzione su cos'è l'informatica. #intro #cs
