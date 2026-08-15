@@ -1,5 +1,7 @@
-A.S. 2025/26, Supplenze
+Registro sostituzioni
 ===
+- Istituto Tecnico Tecnologico "Blaise Pascal", Cesena (FC)
+- A.S. 2025/26
 
 Lunedì 18 maggio 2026 
 ---
