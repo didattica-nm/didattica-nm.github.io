@@ -7,7 +7,7 @@ Sito di raccolta di materiale didattico di [@Nicholas Magi](https://www.nicholas
 ---------
 Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per ciascuna classe esiste una pagina dedicata con tutto il materiale utilizzato durante le lezioni — clicca sul nome della classe per visualizzarla.
 
-#### > In corso — A.S. 2026/27
+#### **> In corso — A.S. 2026/27**
 ---
 *Nessuna attività didattica ancora prevista per l'A.S. 2026/27.*
 
