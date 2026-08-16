@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "as2526/4F-Pascal/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -267,9 +267,10 @@
   },
   "active": "0110c8a82c954e34",
   "lastOpenFiles": [
-    "navigation.md",
-    "index.md",
+    "as2526/3M-Pascal/index.md",
     "blog/risorse-online.md",
+    "index.md",
+    "navigation.md",
     "corsi/react-for-dummies.md",
     "materials/blog/CS_Unplugged-it-10.2009.pdf",
     "materials/blog/attention-is-all-you-need.pdf",
@@ -286,7 +287,6 @@
     "utils/templates/class.md",
     "as2526/3M-Pascal/UD/huffman/heap-impl.md",
     "as2526/3M-Pascal/UD/huffman/assets/max-heap-insert.png",
-    "as2526/3M-Pascal/index.md",
     "2026-06-01.md",
     "as2526/3M-Pascal/UD/huffman/huffman-encode.md",
     "as2526/3M-Pascal/UD/huffman/huffman-tree-traversal.md",
