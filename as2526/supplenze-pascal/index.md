@@ -6,17 +6,17 @@ Registro sostituzioni
 Lunedì 18 maggio 2026 
 ---
 
-- Classe 2I, ore 10:00-12:00, sostituzione del prof. Carlo Biondi.
+- Classe 2I, ore 10:00-12:00.
 	- dalle ore 10:00 alle ore 11:00 in lab. 46
 	- dalle ore 11:00 alle ore 12:00 in aula 56 (variazione orario)
 
 
-- Classe 2F, ore 12:00-14:00, sostituzione del prof. Carlo Biondi.
+- Classe 2F, ore 12:00-14:00.
 	- tutte le ore in lab. 46
 
 ### Argomenti 
 
-- Con il prof. Luca Casadei, lezione su **Sistemi di versionamento: Git** - [[Web slide]](https://didattica-nm.github.io/git-v1.0-finalissimo/) [[GitLab @ biagio.ispascalcomandini.it]](https://biagio.ispascalcomandini.it/gitlab/users/sign_in)
+- Lezione su **Sistemi di versionamento: Git** - [[Web slide]](https://didattica-nm.github.io/git-v1.0-finalissimo/) [[GitLab @ biagio.ispascalcomandini.it]](https://biagio.ispascalcomandini.it/gitlab/users/sign_in)
 - Live coding: esercizio `MathSet` in TDD - [[Testo della consegna]](/materials/tdd/MathSet.pdf) [[`MathSet.kt`]](/materials/tdd/MathSet.kt) [[`MathSetTest.kt`]](/materials/tdd/MathSetTest.kt)
 
 Hint: i sorgenti non sono completi, utilizzate l'esercizio per praticare il TDD in autonomia!
