@@ -7,8 +7,11 @@ Sito di raccolta di materiale didattico di [@Nicholas Magi](https://nicholasmagi
 ---------
 Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per ciascuna classe esiste una pagina dedicata con tutto il materiale utilizzato durante le lezioni — clicca sul nome della classe per visualizzarla.
 
-<blockquote> *Disclaimer*: Materiale distribuito con licenza **Creative Commons CC-BY-SA 4.0**   
-(Creative Commons Attribution-ShareAlike) 
+<blockquote> *Disclaimer*: Materiale distribuito con licenza **Creative Commons CC-BY 4.0**   
+<br/>
+<small>
+Visita <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a> per saperne di più
+</small>
 </blockquote>
 
 #### **> In corso — A.S. 2026/27**
