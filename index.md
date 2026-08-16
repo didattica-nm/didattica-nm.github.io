@@ -4,7 +4,7 @@ Home
 Sito di raccolta di materiale didattico di [@Nicholas Magi](https://nicholasmagi.it).
 
 <blockquote> *Disclaimer*: Materiale distribuito con licenza **Creative Commons CC-BY 4.0**   
-<small>> Visita <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a> per saperne di più</small>
+<small>> Visita https://creativecommons.org/licenses/by/4.0/ per saperne di più</small>
 </blockquote>
 
 ## Didattica

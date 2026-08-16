@@ -81,14 +81,14 @@
             "id": "353eb5e0c6694a59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "aFile": "index.md",
+                "bFile": "index.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "diff",
+              "title": "Diff: index  (Working Tree)"
             }
           },
           {
@@ -281,13 +281,13 @@
   },
   "active": "353eb5e0c6694a59",
   "lastOpenFiles": [
+    "index.md",
+    "navigation.md",
     "as2526/4F-Pascal/index.md",
     "as2526/3M-Pascal/index.md",
-    "index.md",
     "favicon.png",
     "as2526/supplenze-pascal/index.md",
     "privacy/index.md",
-    "navigation.md",
     "privacy",
     "blog/risorse-online.md",
     "corsi/react-for-dummies.md",
