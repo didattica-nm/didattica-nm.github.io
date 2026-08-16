@@ -279,8 +279,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "353eb5e0c6694a59",
+  "active": "01bb09258eae0970",
   "lastOpenFiles": [
+    "extlib/fonts/PT_Sans/italic-PT_Sans-lat-400.woff2",
+    "extlib/fonts/PT_Sans/italic-PT_Sans-lat-ext-400.woff2",
+    "extlib/fonts/PT_Sans/italic-PT_Sans-cyr-ext-400.woff2",
+    "extlib/fonts/PT_Sans/italic-PT_Sans-cyr-400.woff2",
+    "extlib/fonts/PT_Sans/PT_Sans-cyr-400.woff2",
+    "extlib/fonts/PT_Sans/PT_Sans-cyr-ext-400.woff2",
+    "extlib/fonts/PT_Sans/PT_Sans.css",
+    "extlib/fonts/PT_Sans/PTSans-Regular.ttf",
+    "extlib/fonts/PT_Sans/PTSans-Italic.ttf",
+    "extlib/fonts/PT_Sans/PTSans-BoldItalic.ttf",
+    "extlib/fonts/PT_Sans/PTSans-Bold.ttf",
     "index.md",
     "navigation.md",
     "as2526/4F-Pascal/index.md",
@@ -288,17 +299,9 @@
     "favicon.png",
     "as2526/supplenze-pascal/index.md",
     "privacy/index.md",
-    "privacy",
     "blog/risorse-online.md",
     "corsi/react-for-dummies.md",
-    "materials/blog/CS_Unplugged-it-10.2009.pdf",
-    "materials/blog/attention-is-all-you-need.pdf",
-    "materials/blog/how-to-read-a-paper.pdf",
     "materials/blog/Attention.md",
-    "materials/How to read a paper.pdf",
-    "materials/Attention Is All You Need.pdf",
-    "materials/blog",
-    "blog",
     "web.spaggiari.eu.md",
     "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
     "utils/templates/class.md",
@@ -311,8 +314,6 @@
     "as2526/3M-Pascal/UD/huffman/build-huffman-tree.md",
     "as2526/3M-Pascal/UD/huffman/char-frequency.md",
     "as2526/3M-Pascal/UD/huffman/assets/huffman-tree.png",
-    "as2526/3M-Pascal/UD/huffman/assets/input02.txt",
-    "as2526/3M-Pascal/UD/huffman/assets/input01.txt",
     "GitLab.md"
   ]
 }

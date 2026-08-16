@@ -56,6 +56,32 @@ ul.navbar-nav {
     font-size: 18px;
 }
 
+h1, h2, h3, h4, h5, h6, [class*="header"] {
+    font-family: "PT Sans";
+}
+
+h2, h3, h4, h5 {
+    border-left: 5px solid;
+    padding-left: .25em;
+    border-radius: 3px;
+}
+
+h2 {
+    border-left-color: hsl(from var(--bs-danger) h s l / 1);
+}
+
+h3 {
+    border-left-color: hsl(from var(--bs-danger) h s l / 75%);
+}
+
+h4 {
+    border-left-color: hsl(from var(--bs-danger) h s l / 50%);
+}
+
+h5 {
+    border-left-color: hsl(from var(--bs-danger) h s l / 25%);
+}
+
 .table {
     display: block;
     overflow-x: scroll;

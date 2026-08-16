@@ -44,6 +44,7 @@ HTML, CSS e JavaScript; separazione dei compiti: descrizione del contenuto (HTML
     * dichiarazione di una variabile: `const` vs `let`
     * DOM Manipulation: cenni con alcuni esempi
 
+---
 #### [1] Introduzione a React
 
 React: libreria per lo sviluppo di applicazioni web. Differenza **framework** vs. **libreria**. Vantaggi e svantaggi di una libreria e di un framework. Feature di React: componenti, hooks, routing.
