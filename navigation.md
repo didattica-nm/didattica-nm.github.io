@@ -25,5 +25,7 @@
 
 [Blog](blog/risorse-online.md)
 
+[Privacy](privacy/index.md)
+
 [gimmick:theme](brite)
 [gimmick:math]()
