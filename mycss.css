@@ -16,6 +16,10 @@ body {
     flex-grow: 1;
 }
 
+a {
+    text-wrap: wrap;
+}
+
 @media screen and (max-width: 991px) {
     .navbar-collapse, ul.navbar-nav {
         padding-top: 10px !important;
