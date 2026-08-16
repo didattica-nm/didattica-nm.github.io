@@ -6,7 +6,7 @@
 
   * [Corso PNRR "React for Dummies"](corsi/react-for-dummies.md)
 
-[Utilites]()
+[Utilities]()
 
 - # Frequenti
 - [RE ClasseViva](https://web.spaggiari.eu)
