@@ -15,12 +15,12 @@ Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per cia
 #### A.S. 2025/26
 ---
 
-- (*Supplenza breve*) B016 - Laboratorio di Scienze e Tecnologie Informatiche
-- Istituto Tecnico Tecnologico "Blaise Pascal", Cesena (FC)
-- Classi 
-  - [3M](as2526/3M-Pascal/index.md)
-  - [4F](as2526/4F-Pascal/index.md)
-- [[Registro delle sostituzioni](as2526/supplenze-pascal/index.md)]
+|              | Informazioni                                                                |
+| ------------ | --------------------------------------------------------------------------- |
+| **Servizio** | (*Supplenza breve*) B016 - Laboratorio di Scienze e Tecnologie Informatiche |
+| **Presso**   | Istituto Tecnico Tecnologico "Blaise Pascal", Cesena (FC)                   |
+| **Classi**   | [\[3M\]](as2526/3M-Pascal/index.md); [\[4F\]](as2526/4F-Pascal/index.md)    |
+| **Extra**    | [[Registro delle sostituzioni](as2526/supplenze-pascal/index.md)]           |
 
 <br>
 <blockquote> *Disclaimer*: Materiale distribuito con licenza **Creative Commons CC-BY-SA 4.0**   

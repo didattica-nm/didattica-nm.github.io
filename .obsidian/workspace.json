@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "navigation.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "navigation"
+              "title": "index"
             }
           },
           {
@@ -110,7 +110,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -265,10 +267,10 @@
   },
   "active": "0110c8a82c954e34",
   "lastOpenFiles": [
+    "navigation.md",
     "index.md",
     "blog/risorse-online.md",
     "corsi/react-for-dummies.md",
-    "navigation.md",
     "materials/blog/CS_Unplugged-it-10.2009.pdf",
     "materials/blog/attention-is-all-you-need.pdf",
     "materials/blog/how-to-read-a-paper.pdf",
