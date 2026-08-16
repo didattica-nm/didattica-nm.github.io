@@ -61,25 +61,24 @@ h1, h2, h3, h4, h5, h6, [class*="header"] {
 }
 
 h2, h3, h4, h5 {
-    border-left: 5px solid;
+    border-left: 7px solid;
     padding-left: .25em;
-    border-radius: 3px;
 }
 
 h2 {
-    border-left-color: hsl(from var(--bs-danger) h s l / 1);
+    border-left-color: hsl(from var(--bs-success) h s l / 1);
 }
 
 h3 {
-    border-left-color: hsl(from var(--bs-danger) h s l / 75%);
+    border-left-color: hsl(from var(--bs-success) h s l / 75%);
 }
 
 h4 {
-    border-left-color: hsl(from var(--bs-danger) h s l / 50%);
+    border-left-color: hsl(from var(--bs-success) h s l / 50%);
 }
 
 h5 {
-    border-left-color: hsl(from var(--bs-danger) h s l / 25%);
+    border-left-color: hsl(from var(--bs-success) h s l / 25%);
 }
 
 .table {
