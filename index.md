@@ -1,7 +1,7 @@
 Home
 =======
 
-Sito di raccolta di materiale didattico di [@Nicholas Magi](https://www.nicholasmagi.it).
+Sito di raccolta di materiale didattico di [@Nicholas Magi](https://nicholasmagi.it).
 
 ## Didattica
 ---------

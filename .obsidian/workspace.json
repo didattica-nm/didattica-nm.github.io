@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2526/supplenze-pascal/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -279,8 +279,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "353eb5e0c6694a59",
+  "active": "01bb09258eae0970",
   "lastOpenFiles": [
+    "as2526/supplenze-pascal/index.md",
     "privacy/index.md",
     "navigation.md",
     "index.md",
@@ -299,7 +300,6 @@
     "blog",
     "web.spaggiari.eu.md",
     "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
-    "as2526/supplenze-pascal/index.md",
     "utils/templates/class.md",
     "as2526/3M-Pascal/UD/huffman/heap-impl.md",
     "as2526/3M-Pascal/UD/huffman/assets/max-heap-insert.png",
