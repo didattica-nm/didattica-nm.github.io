@@ -8,7 +8,7 @@ Warning: Svolgi le parti dell'esercitazione in maniera sequenziale!
 
 ### Parte #01
 
-Scrivi un programma in C# che implementi, tramite la scrittura di una classe, la struttura dati MinHeap che memorizza un numero variabile \\(n \in \mathbb{N} \\) di chiavi \\( k \in \mathbb{N}\\), con tutte le operazioni previste per tale struttura dati. 
+Scrivi un programma in C# che implementi, tramite la scrittura di una classe, la struttura dati MinHeap che memorizza un numero variabile \\(n \in \mathbb{N} \\) di chiavi \\( \\{ k_1, \dots, k_n \\} \subseteq \mathbb{N}\\), con tutte le operazioni previste per tale struttura dati. 
 
 Hint: Puoi riguardare gli pseudocodici delle operazioni previste per **MaxHeap** dalle dispense condivise (o dagli allegati della consegna) e cercare di capire la logica da seguire per **MinHeap**.
 

@@ -69,12 +69,12 @@ ul.navbar-nav {
     margin-top: 40px;
 }
 
-#md-content *:not(h1, h2, h3, h4, h5, h6, small, small *), .md-text, #md-main-navbar ul.navbar-nav li a  {
-    font-size: 18px;
+#md-content *:not(h1, h2, h3, h4, h5, h6, small, small *), .md-text, #md-main-navbar ul.navbar-nav li a, #md-left-column *  {
+    font-size: 1.2rem;
 }
 
 #md-main-navbar * {
-    font-size: 16px;
+    font-size: 1.1rem;
 }
 
 a.navbar-brand {
