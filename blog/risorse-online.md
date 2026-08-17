@@ -51,3 +51,7 @@ Risorse accademiche
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 	- corsi del Massachusets Institute of Technology **rilasciati gratuitamente**.
 - [ACM Digital Library - *the authoritative research, discovery, and publishing platform for computing and information technology*](https://dl.acm.org/)
+- [Aladdin - Laboratorio di divulgazione e didattica dell'informatica](https://mameli.docenti.di.unimi.it/didainfo/wiki/MaterialePresentazioni20)
+  - spunti di didattica dell'informatica
+- [Didattica dell'informatica - Università di Bologna](https://csed-unibo.github.io/#!index.md)
+  - altri spunti
