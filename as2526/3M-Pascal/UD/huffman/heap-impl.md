@@ -8,7 +8,7 @@ Warning: Svolgi le parti dell'esercitazione in maniera sequenziale!
 
 ### Parte #01
 
-Scrivi un programma in C# che implementi, tramite la scrittura di una classe, la struttura dati MinHeap che memorizza un numero variabile \\(n \in \mathbb{N} \\) di chiavi \\( \\{ k_1, \dots, k_n \\} \subseteq \mathbb{N}\\), con tutte le operazioni previste per tale struttura dati. 
+Scrivi un programma in C# che implementi, tramite la scrittura di una classe, la struttura dati `MinHeap` che memorizza un numero variabile \\(n \in \mathbb{N} \\) di chiavi \\( \\{ k_1, \dots, k_n \\} \subseteq \mathbb{N}\\), con tutte le operazioni previste per tale struttura dati. 
 
 Hint: Puoi riguardare gli pseudocodici delle operazioni previste per **MaxHeap** dalle dispense condivise (o dagli allegati della consegna) e cercare di capire la logica da seguire per **MinHeap**.
 
@@ -72,10 +72,12 @@ class MinHeap
 ---
 ### Parte #02
 
-Abbiamo visto che possiamo realizzare una priority queue mediante Heap, raggiungendo un compromesso (in termini di complessità computazionale) tra una sua realizzazione basata su **vettore ordinato** e una su **vettore disordinato**. Realizza, in C#, una classe "`MinPriorityQueue`" in cui deve essere possibile:
+Realizzare una **priority queue** mediante *Heap* ci permette di raggiungere un compromesso (in termini di complessità computazionale) rispetto all'utilizzo di un *vettore ordinato* o di un *vettore disordinato*. 
+
+Realizza, in C#, una classe "`MinPriorityQueue`" che sfrutti il `MinHeap` precedentemente implementato in cui deve essere possibile:
 
 1. Accodare un elemento (`Enqueue()`)
-2. Servire l'elemento con priorità minore (`Dequeue()`)
+2. Estrarre l'elemento con priorità minore (`Dequeue()`)
 3. Sapere quanti elementi sono in coda (`ElementsLeft`)
 
 ```csharp
