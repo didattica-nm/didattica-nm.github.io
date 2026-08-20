@@ -44,7 +44,6 @@ HTML, CSS e JavaScript; separazione dei compiti: descrizione del contenuto (HTML
     * dichiarazione di una variabile: `const` vs `let`
     * DOM Manipulation: cenni con alcuni esempi
 
----
 #### [1] Introduzione a React
 
 React: libreria per lo sviluppo di applicazioni web. Differenza **framework** vs. **libreria**. Vantaggi e svantaggi di una libreria e di un framework. Feature di React: componenti, hooks, routing.
@@ -53,7 +52,6 @@ Presentazione del progetto guida: **ReAuction**, casa d'aste per installazioni a
 Setup del progetto: inizializzazione con Vite di un template React + JavaScript, sguardo alla struttura del progetto: le cartelle `node_modules/`, `public/` e `src/`. Sguardo alla struttura tipo di un componente - analisi di `App.jsx`.
 Installazione di Bootstrap via npm.
 
----
 #### [2] Componenti
 
 Componenti **funzionali** in React: JSX - JavaScript eXtension, mix di HTML e codice JavaScript. 
@@ -66,11 +64,9 @@ Compound Components — come possono essere realizzati con l'utilizzo di `useCon
 
 Thinking in React: i 5 passi necessari per strutturare una web application in React.
 
----
 #### [3] Routing
 React: progettazione di S.P.A. di default. Routing non supportato nativamente. `react-router` (versione 7.0): libreria esterna per gestire il routing di una web app React. Progetto "React Routing Examples": utilizzo di BrowserRouter, Routes e Route per definire le possibili strade di un'applicazione, e NavLink e Link per collegare effettivamente le varie parti della medesima. Nested Routes, URL parametrica, hook `useParam()` per ottenere il parametro di ricerca dell'URL corrente.
 
----
 #### [4] Gestione API esterna
 Utilzzo di FlickAPI per ottenere immagini salvate in uno storage esterno. Progetto "React Fetch Examples": tipico utilizzo di FlickrAPI. Prassi di utilizzo di una qualsiasi web API: studia la documentazione, ottieni una chiave, implementa la soluzione su React. Novità di React v19: hook `use()` per poter leggere il valore di una `Promise`. Componenti `Suspance` e `ErrorBoundary` per renderizzare componenti UI ad ogni stato di una `Promise`. Hook `useMemo()` per memorizzare in cache i risultati del fetch di dati.
 

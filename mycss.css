@@ -11,10 +11,15 @@ body {
     min-height: 100dvh !important;
     display: flex;
     flex-direction: column;
+    cursor: url("extlib/pointer/normal.svg") 10 10, pointer;
+}
+
+a:hover {
+    cursor: url("extlib/pointer/active.svg") 10 10, pointer;
 }
 
 *:not(code, pre, code *, pre *) {
-    font-family: "Source Sans Pro";
+    font-family: "DM Sans";
 }
 
 #md-all {
@@ -99,52 +104,24 @@ a:not(.navbar-brand, .jumplink, .navbar-nav *)::before {
 
 table > thead > tr > th {
     text-align: center;
+    background-color: black !important;
+    color: var(--bs-secondary) !important;
 }
 
 h1, h2, h3, h4, h5, h6, [class*="header"] {
-    font-family: "PT Sans";
+    font-family: "Space Grotesk";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-decoration: underline var(--bs-primary) 2.5px;
+    text-underline-offset: 10px;
+    margin: 20px auto !important;
 }
 
 h2, h3, h4, h5 {
-    border-left: 5px solid;
-    padding: 10px;
-    padding-left: .4em;
+    padding: 20px;
+    text-decoration: underline var(--bs-primary) 5px;
     background-color: hsl(from var(--bs-primary) h s l / .2);
-}
-
-h2 {
-    border-left-color: hsl(from var(--bs-success) h s l / 1);
-}
-
-h3 {
-    border-left-color: hsl(from var(--bs-success) h s l / 75%);
-}
-
-h4 {
-    border-left-color: hsl(from var(--bs-success) h s l / 50%);
-}
-
-h5 {
-    border-left-color: hsl(from var(--bs-success) h s l / 25%);
-}
-
-.table {
-    display: block;
-    overflow-x: scroll;
-}
-
-.md-inpage-anchor:not(:first-child) {
-    margin-top: 30px;
-}
-
-blockquote {
-    background-color: rgba(232, 232, 232, 0.655);
-    padding: 18px 30px !important;
-    border-left: 5px solid gray;
-}
-
-h1 {
-    margin-bottom: 30px !important;
 }
 
 table {
