@@ -126,6 +126,8 @@ h2, h3, h4, h5 {
 
 table {
     border: 0px !important;
+    display: block;
+    overflow-x: scroll;
 }
 
 li.dropdown-header {
