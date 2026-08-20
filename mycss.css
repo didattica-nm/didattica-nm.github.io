@@ -134,6 +134,12 @@ table {
     overflow-x: scroll;
 }
 
+blockquote {
+    background-color: rgba(128, 128, 128, .2);
+    border-left: 5px solid gray;
+    padding: 20px 1rem 20px 2rem;
+}
+
 li.dropdown-header {
     background-color: var(--bs-success);
     border-radius: .375rem;
