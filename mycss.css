@@ -114,14 +114,18 @@ h1, h2, h3, h4, h5, h6, [class*="header"] {
 
 h1, h2, h3, h4, h5, h6 {
     text-decoration: underline var(--bs-primary) 2.5px;
-    text-underline-offset: 10px;
-    margin: 20px auto !important;
+    text-underline-offset: 5px;
+    margin: 0 0 20px 0 !important;
 }
 
 h2, h3, h4, h5 {
     padding: 20px;
     text-decoration: underline var(--bs-primary) 5px;
     background-color: hsl(from var(--bs-primary) h s l / .2);
+}
+
+del {
+    text-decoration: line-through black 2.5px;
 }
 
 table {
