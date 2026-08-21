@@ -42,7 +42,7 @@ Letture
 - [*The company whose 'AI' was actually 700 humans in India*](https://ia.acs.org.au/article/2025/the-company-whose--ai--was-actually-700-humans-in-india.html), articolo di David Braue su Information Age
 	- semi-smentito qui: https://newsletter.pragmaticengineer.com/p/the-pulse-137
 - [*Kotlin - An Illustrated Guide*, Dave Leeds](https://typealias.com/start/)
-- [[Leggi qui]](materials/blog/the-generative-ai-learning-penalty.pdf) *Stromberg, David and Lei, Victor and Wu, Yanhui, The Generative AI Learning Penalty: Evidence from Chinese Secondary Education (June 02, 2026). Available at SSRN: https://ssrn.com/abstract=6868618 or http://dx.doi.org/10.2139/ssrn.6868618*
+- [[Leggi qui]](/materials/blog/the-generative-ai-learning-penalty.pdf) *Stromberg, David and Lei, Victor and Wu, Yanhui, The Generative AI Learning Penalty: Evidence from Chinese Secondary Education (June 02, 2026). Available at SSRN: https://ssrn.com/abstract=6868618 or http://dx.doi.org/10.2139/ssrn.6868618*
 
 
 Risorse accademiche
