@@ -8,7 +8,7 @@ Video / playlists
 
 - Dal canale "Premature Abstraction", playlist [*Compilers*](https://www.youtube.com/watch?v=zA5iLLP9v-I&list=PL6whQ6CW68oe3tcmFcBLYFQChqwYEaG7_) #cs #compilers
 - Argomenti sparsi, canale ["PawelCodeStuff"](https://www.youtube.com/@pawel_code_stuff) #cs #general
-- [*Google Maps is unreasonably fast. Let me explain*](https://www.youtube.com/watch?v=kS-CGkiPetQ), Veritasium ft. 2swap #algorithms #dijkstra #astar
+- [*Google Maps is unreasonably fast. Let me explain*](https://www.youtube.com/watch?v=kS-CGkiPetQ), "Veritasium" ft. "2swap" #algorithms #dijkstra #a-star
 	- algoritmi shortest path Dijkstra e A*
 - [*Reinventing Entropy | Compression is Intelligence Part 1*](https://www.youtube.com/watch?v=l6DKRf-fAAM), dal canale "3Blue1Brown" #information-theory #shannon #compression #algorithms #AI #cs
 - La playlist-corso [*Neural Networks*](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3), dal canale "3Blue1Brown"  #cs #AI #neural-networks
@@ -42,6 +42,8 @@ Letture
 - [*The company whose 'AI' was actually 700 humans in India*](https://ia.acs.org.au/article/2025/the-company-whose--ai--was-actually-700-humans-in-india.html), articolo di David Braue su Information Age
 	- semi-smentito qui: https://newsletter.pragmaticengineer.com/p/the-pulse-137
 - [*Kotlin - An Illustrated Guide*, Dave Leeds](https://typealias.com/start/)
+- [[Leggi qui]](materials/blog/the-generative-ai-penalty.pdf) *Stromberg, David and Lei, Victor and Wu, Yanhui, The Generative AI Learning Penalty: Evidence from Chinese Secondary Education (June 02, 2026). Available at SSRN: https://ssrn.com/abstract=6868618 or http://dx.doi.org/10.2139/ssrn.6868618*
+
 
 Risorse accademiche
 ---
@@ -55,3 +57,4 @@ Risorse accademiche
   - spunti di didattica dell'informatica
 - [Didattica dell'informatica - Università di Bologna](https://csed-unibo.github.io/#!index.md)
   - altri spunti
+- Spunto alla guida **minimale** di codice pulito (scritta per C++, ma riadattabile a qualunque linguaggio): [Stanford CS106b course - Style Guide](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1268/resources/style_guide.html)
