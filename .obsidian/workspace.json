@@ -78,29 +78,17 @@
             }
           },
           {
-            "id": "353eb5e0c6694a59",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "index.md",
-                "bFile": "index.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: index  (Working Tree)"
-            }
-          },
-          {
             "id": "38f9dc25fbfbad45",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "materials/blog/attention-is-all-you-need.pdf"
+                "file": "navigation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "attention-is-all-you-need"
+              "icon": "lucide-file",
+              "title": "navigation"
             }
           }
         ],
@@ -279,8 +267,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01bb09258eae0970",
+  "active": "38f9dc25fbfbad45",
   "lastOpenFiles": [
+    "materials/blog/attention-is-all-you-need.pdf",
+    "index.md",
     "assets/imgs/favicon.png",
     "assets/favicon.png",
     "assets/imgs/hamburger.png",
@@ -294,7 +284,6 @@
     "extlib/fonts/PT_Sans/PT_Sans-cyr-400.woff2",
     "extlib/fonts/PT_Sans/PT_Sans-cyr-ext-400.woff2",
     "extlib/fonts/PT_Sans/PT_Sans.css",
-    "index.md",
     "navigation.md",
     "as2526/4F-Pascal/index.md",
     "as2526/3M-Pascal/index.md",

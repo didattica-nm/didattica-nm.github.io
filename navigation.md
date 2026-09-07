@@ -19,7 +19,6 @@
 - [Notional Machines](https://notionalmachines.github.io/)
 - [Python Tutor](https://pythontutor.com/)
 - [github.com / Python package to visualize SQL queries as graphs](https://github.com/giraphne/sqlvis)
-- [[DEMO] Bleinstein - prof. Luca Casadei](https://didattica.lucacasadei.net/lab/login/index.php?loginredirect=1)
 - [CSS Diner](https://flukeout.github.io/)
 
 [Blog](blog/risorse-online.md)
