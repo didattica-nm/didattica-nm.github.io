@@ -1,0 +1,73 @@
+SCUOLA SECONDARIA DI SECONDO GRADO
+
+├── LICEI
+│   ├── Liceo classico
+│   ├── Liceo linguistico
+│   ├── Liceo scientifico
+│   │   ├── scientifico
+│   │   └── opzione scienze applicate
+│   ├── Liceo scienze umane
+│   │   ├── scienze umane
+│   │   └── opzione economico-sociale
+│   ├── Liceo musicale e coreutico
+│   │   ├── sezione musicale
+│   │   └── sezione coreutica
+│   └── Liceo artistico
+│       ├── arti figurative
+│       ├── architettura e ambiente
+│       ├── design
+│       ├── grafica
+│       ├── audiovisivo e multimediale
+│       └── scenografia
+│
+├── ISTITUTI TECNICI https://www.cislscuola.it/news/dettaglio/article/istituti-tecnici-e-istituti-professionali-linee-guida-secondo-biennio-e-quinto-anno-emanate-le/
+│   ├── Settore economico
+│   │   ├── Amministrazione finanza e marketing
+│   │   │   ├── AFM
+│   │   │   ├── relazioni internazionali per il marketing
+│   │   │   └── sistemi informativi aziendali
+│   │   └── Turismo
+│   │
+│   └── Settore tecnologico
+│       ├── Meccanica, meccatronica ed energia
+│       │   ├── meccanica e meccatronica
+│       │   └── energia
+│       ├── Trasporti e logistica
+│       │   ├── costruzione del mezzo
+│       │   ├── conduzione del mezzo
+│       │   └── logistica
+│       ├── Elettronica ed elettrotecnica
+│       │   ├── elettronica
+│       │   ├── elettrotecnica
+│       │   └── automazione
+│       ├── Informatica e telecomunicazioni
+│       │   ├── informatica
+│       │   └── telecomunicazioni
+│       ├── Grafica e comunicazione
+│       ├── Chimica, materiali e biotecnologie
+│       │   ├── chimica e materiali
+│       │   ├── biotecnologie ambientali
+│       │   └── biotecnologie sanitarie
+│       ├── Sistema moda
+│       │   ├── tessile, abbigliamento e moda
+│       │   └── calzature e moda
+│       ├── Agraria, agroalimentare e agroindustria
+│       │   ├── produzioni e trasformazioni
+│       │   ├── gestione ambiente e territorio
+│       │   └── viticoltura ed enologia
+│       └── Costruzioni, ambiente e territorio
+│           ├── CAT
+│           └── geotecnico
+│
+└── ISTITUTI PROFESSIONALI https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/professionali/
+    ├── Agricoltura, sviluppo rurale, valorizzazione prodotti del territorio
+    ├── Pesca commerciale e produzioni ittiche
+    ├── Industria e artigianato per il Made in Italy
+    ├── Manutenzione e assistenza tecnica
+    ├── Gestione delle acque e risanamento ambientale
+    ├── Servizi commerciali
+    ├── Enogastronomia e ospitalità alberghiera
+    ├── Servizi culturali e dello spettacolo
+    ├── Servizi per la sanità e assistenza sociale
+    ├── Arti ausiliarie delle professioni sanitarie – odontotecnico
+    └── Arti ausiliarie delle professioni sanitarie – ottico

@@ -1,7 +1,7 @@
-Risorse online doom-scrolling-proof
+Risorse online
 ===
 
-Pagina in continuo aggiornamento su contenuti interessanti, spunti di lezioni & tanto altro consigliati, tipicamente, dal mio algoritmo di raccomandazione di YouTube ;-)
+Pagina in continuo aggiornamento su contenuti interessanti, spunti di lezioni & tanto altro.
 
 Video / playlists
 ---
@@ -58,3 +58,10 @@ Risorse accademiche
 - [Didattica dell'informatica - Università di Bologna](https://csed-unibo.github.io/#!index.md)
   - altri spunti
 - Spunto alla guida **minimale** di codice pulito (scritta per C++, ma riadattabile a qualunque linguaggio): [Stanford CS106b course - Style Guide](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1268/resources/style_guide.html)
+
+Capire la scuola italiana
+---
+
+- [Mappa delle scuole secondarie di secondo](/materials/blog/scuole-secondarie-italia.txt)
+	- organizzata per tipologia istituto - settore - indirizzo - articolazione
+		- (*ad esempio: **\<tipologia istituto\>** Istituto Tecnico **\<settore\>** Tecnologico **\<indirizzo\>** Informatica e Telecomunicazioni **\<articolazione\>** Informatica*)
