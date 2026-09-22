@@ -65,3 +65,13 @@ Capire la scuola italiana
 - [Mappa delle scuole secondarie di secondo](/materials/blog/scuole-secondarie-italia.txt)
 	- organizzata per tipologia istituto - settore - indirizzo - articolazione
 		- (*ad esempio: **\[tipologia istituto\]** Istituto Tecnico **\[settore\]** Tecnologico **\[indirizzo\]** Informatica e Telecomunicazioni **\[articolazione\]** Informatica*)
+- Alcune indicazioni nazionali
+	- Istituto Tecnico, settore Tecnologico, indirizzo Informatica e Telecomunicazioni
+		- primo biennio
+		- [secondo biennio e quinto anno](/materials/blog/linee-guida-itt-info-e-tel.pdf) 
+			- (*dal sito www.cislscuola.it*)
+			- valide **prima** della riforma 4+2
+	- Istituto Tecnico, settore Economico, indirizzo Amministrazione, Finanza e Marketing
+		- primo biennio
+		- [secondo biennio e quinto anno](/materials/blog/linee-guida-ite-afm.pdf)
+			- (*dal sito www.cislscuola.it*)
