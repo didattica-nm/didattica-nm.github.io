@@ -58,6 +58,8 @@ Risorse accademiche
 - [Didattica dell'informatica - Università di Bologna](https://csed-unibo.github.io/#!index.md)
   - altri spunti
 - Spunto alla guida **minimale** di codice pulito (scritta per C++, ma riadattabile a qualunque linguaggio): [Stanford CS106b course - Style Guide](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1268/resources/style_guide.html)
+- [Revised Bloom's Taxonomy](/materials/blog/revised-blooms-handout.pdf)
+	- Visualizzazione chiara del framework di riferimento per la categorizzazione degli obiettivi di apprendimento per qualunque materia.
 
 Capire la scuola italiana
 ---
