@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2627/itt-pascal/5F/SR/UD/crittografia/matrix-cipher.md",
+                "file": "as2627/itt-pascal/5E/INF/UD/progettazione-db/cultural-events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "matrix-cipher"
+              "title": "cultural-events"
             }
           }
         ],
@@ -269,21 +269,24 @@
   },
   "active": "27cd68ce086b2f45",
   "lastOpenFiles": [
+    "as2627/itt-pascal/5E/INF/index.md",
+    "as2627/itt-pascal/5E/INF/UD/progettazione-db/cultural-events.md",
     "as2627/itt-pascal/5F/SR/UD/crittografia/project-design.md",
-    "as2627/itt-pascal/5F/SR/UD/crittografia/matrix-cipher.md",
     "as2627/itt-pascal/5F/SR/index.md",
     "as2526/3M-Pascal/index.md",
+    "as2526/4F-Pascal/index.md",
+    "as2627/itt-pascal/5E/INF/UD/progettazione-db",
+    "as2627/itt-pascal/5E/INF/UD",
+    "as2627/itt-pascal/5F/SR/UD/crittografia/matrix-cipher.md",
     "as2526/3M-Pascal/UD/huffman/build-huffman-tree.md",
     "as2627/itt-pascal/5F/SR/UD/crittografia",
     "as2627/itt-pascal/5F/SR/UD",
-    "as2526/4F-Pascal/index.md",
     "as2627/itt-pascal/5I/GPOI/index.md",
     "index.md",
     "as2627/itt-pascal/4M/SR/index.md",
     "as2627/itt-pascal",
     "as2627/itt-pascal/4E/SR/index.md",
     "as2627/itt-pascal/5E/GPOI/index.md",
-    "as2627/itt-pascal/5E/INF/index.md",
     "as2627/itt-pascal/5E/TPSIT/index.md",
     "index 1 2.md",
     "index 1 1.md",
@@ -294,8 +297,6 @@
     "as2627/itt-pascal/4E/SR",
     "as2627/itt-pascal/4M/SR",
     "as2627/itt-pascal/4E",
-    "as2627/itt-pascal/5I",
-    "as2627/itt-pascal/4M",
     "blog/risorse-online.md",
     "materials/blog/linee-guida-info-e-tel.md",
     "materials/blog/linee-guida-info-e-tel.pdf.md",
@@ -307,8 +308,6 @@
     "favicon.png",
     "as2526/supplenze-pascal/index.md",
     "privacy/index.md",
-    "corsi/react-for-dummies.md",
-    "materials/blog/Attention.md",
     "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
     "as2526/3M-Pascal/UD/huffman/assets/max-heap-insert.png",
     "as2526/3M-Pascal/UD/huffman/assets/navigazione-heap.png",

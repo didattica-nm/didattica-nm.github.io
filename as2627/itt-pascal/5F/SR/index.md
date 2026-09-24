@@ -19,8 +19,8 @@ Materiale condiviso & attività
 
 ### UD: "Crittografia"
 
-- [\[Attività laboratoriale\] Modellazione di un progetto console sulla crittografia](UD/crittografia/project-design.md)
-- [\[Attività laboratoriale\] Implementazione del cifrario a matrice](UD/crittografia/matrix-cipher.md)
+- [\[Attività laboratoriale\] Parte #01: Modellazione di un progetto console sulla crittografia](UD/crittografia/project-design.md)
+- [\[Attività laboratoriale\] Parte #02: Implementazione del cifrario a matrice](UD/crittografia/matrix-cipher.md)
 
 Registro delle lezioni
 ---
