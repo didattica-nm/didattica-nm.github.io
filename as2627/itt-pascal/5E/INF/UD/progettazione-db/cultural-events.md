@@ -1,4 +1,4 @@
-Attività laboratoriale: Progettazione database per compagnia teatrale
+Attività laboratoriale: Progettazione database per una compagnia teatrale
 ===
 
 Una nota compagnia teatrale del cesenate, tali "*Archimede APS*", è solita mettere in scena spettacoli a tema scientifico, letterario e musicale. Da poco necessitano di un sistema informativo che raccolga le testimonianze delle loro varie rassegne, così da poter realizzare una web app che funga da "portfolio" e archivio per chiunque voglia scoprire qualcosa in più su di loro.

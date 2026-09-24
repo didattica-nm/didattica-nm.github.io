@@ -18,7 +18,7 @@ Materiale condiviso & attività
 ---
 ### UD: "Progettazione database relazionali"
 
-- [\[Attività laboratoriale\] Progettazione database per compagnia teatrale](UD/progettazione-db/cultural-events.md)
+- [\[Attività laboratoriale\] Progettazione database per una compagnia teatrale](UD/progettazione-db/cultural-events.md)
 
 Registro delle lezioni
 ---

@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "as2627/itt-pascal/5E/INF/UD/progettazione-db/cultural-events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "cultural-events"
             }
           }
         ],
@@ -267,10 +267,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01bb09258eae0970",
+  "active": "27cd68ce086b2f45",
   "lastOpenFiles": [
-    "as2627/itt-pascal/5E/INF/UD/progettazione-db/cultural-events.md",
     "as2627/itt-pascal/5E/INF/index.md",
+    "index.md",
+    "as2627/itt-pascal/5E/INF/UD/progettazione-db/cultural-events.md",
     "as2627/itt-pascal/5F/SR/UD/crittografia/project-design.md",
     "as2627/itt-pascal/5F/SR/index.md",
     "as2526/3M-Pascal/index.md",
@@ -282,7 +283,6 @@
     "as2627/itt-pascal/5F/SR/UD/crittografia",
     "as2627/itt-pascal/5F/SR/UD",
     "as2627/itt-pascal/5I/GPOI/index.md",
-    "index.md",
     "as2627/itt-pascal/4M/SR/index.md",
     "as2627/itt-pascal",
     "as2627/itt-pascal/4E/SR/index.md",
