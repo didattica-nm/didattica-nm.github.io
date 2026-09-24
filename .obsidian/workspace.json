@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "as2627/itt-pascal/5F/SR/UD/crittografia/project-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "project-design"
             }
           }
         ],
@@ -269,14 +269,21 @@
   },
   "active": "27cd68ce086b2f45",
   "lastOpenFiles": [
-    "as2627/itt-pascal/4M/SR/index.md",
+    "as2627/itt-pascal/5F/SR/UD/crittografia/matrix-cipher.md",
+    "as2627/itt-pascal/5F/SR/index.md",
+    "as2526/3M-Pascal/index.md",
+    "as2627/itt-pascal/5F/SR/UD/crittografia/project-design.md",
+    "as2526/3M-Pascal/UD/huffman/build-huffman-tree.md",
+    "as2627/itt-pascal/5F/SR/UD/crittografia",
+    "as2627/itt-pascal/5F/SR/UD",
+    "as2526/4F-Pascal/index.md",
+    "as2627/itt-pascal/5I/GPOI/index.md",
     "index.md",
+    "as2627/itt-pascal/4M/SR/index.md",
     "as2627/itt-pascal",
     "as2627/itt-pascal/4E/SR/index.md",
     "as2627/itt-pascal/5E/GPOI/index.md",
     "as2627/itt-pascal/5E/INF/index.md",
-    "as2627/itt-pascal/5F/SR/index.md",
-    "as2627/itt-pascal/5I/GPOI/index.md",
     "as2627/itt-pascal/5E/TPSIT/index.md",
     "index 1 2.md",
     "index 1 1.md",
@@ -289,8 +296,6 @@
     "as2627/itt-pascal/4E",
     "as2627/itt-pascal/5I",
     "as2627/itt-pascal/4M",
-    "as2627/itt-pascal/5F",
-    "as2627/itt-pascal/5E/INF",
     "blog/risorse-online.md",
     "materials/blog/linee-guida-info-e-tel.md",
     "materials/blog/linee-guida-info-e-tel.pdf.md",
@@ -299,16 +304,12 @@
     "assets/imgs/favicon.png",
     "assets/favicon.png",
     "assets/imgs/hamburger.png",
-    "as2526/4F-Pascal/index.md",
-    "as2526/3M-Pascal/index.md",
     "favicon.png",
     "as2526/supplenze-pascal/index.md",
     "privacy/index.md",
     "corsi/react-for-dummies.md",
     "materials/blog/Attention.md",
-    "web.spaggiari.eu.md",
     "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
-    "as2526/3M-Pascal/UD/huffman/heap-impl.md",
     "as2526/3M-Pascal/UD/huffman/assets/max-heap-insert.png",
     "as2526/3M-Pascal/UD/huffman/assets/navigazione-heap.png",
     "as2526/3M-Pascal/UD/huffman/assets/huffman-tree.png"
