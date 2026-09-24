@@ -18,4 +18,4 @@ Gli algoritmi di crittografia sono numerosi, ma possono essere classificati in b
 
 Le precedenti caratteristiche sono componibili tra di loro: per esempio, il cifrario di Cesare è un algoritmo di cifratura che **opera su un testo** e **utilizza la stessa chiave (numerica) sia in fase di cifratura che decifratura**. 
 
-Creare un progetto `C#` Console che modelli l'insieme delle precedenti caratteristiche mediante il costrutto più adeguato (*classi? classi astratte? interfacce?*). L'obiettivo è costruire la *codebase* iniziale per l'implementazione di alcuni degli algoritmi di crittografia di seguito trattati.
+Creare un progetto `C#` Console che modelli l'insieme delle precedenti caratteristiche mediante il costrutto più opportuno (*classi? classi astratte? interfacce? A voi la scelta*). L'obiettivo è costruire la *codebase* iniziale per l'implementazione di alcuni dei cifrari di seguito trattati.
