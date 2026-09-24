@@ -12,14 +12,14 @@ Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per cia
 
 ### Orario delle lezioni
 
-| #           | LUNEDI                   | MARTEDI  | MERCOLEDI             | GIOVEDI                  | VENERDI                | SABATO                 |
-| ----------- | ------------------------ | -------- | --------------------- | ------------------------ | ---------------------- | ---------------------- |
-| 08:00-09:00 | 5F - **Lab. 39** - SR    | *Libero* | 4E - **Lab. 39** - SR |                          |                        | 5E - **Lab. 2** - GPOI |
-| 09:00-09:50 | 5F - **Lab. 39** - SR    | *Libero* | 4E - **Lab. 39** - SR |                          |                        | 5E - **Lab. 2** - INF  |
-| 10:00-11:00 |                          | *Libero* | 4M - **Lab. 39** - SR |                          | 5F - **Lab. 39** - SR  |                        |
-| 11:00-11:50 |                          | *Libero* | 4M - **Lab. 39** - SR | 5E - **Lab. 47** - TPSIT | 5E - **Lab. 2** - INF  |                        |
-| 12:00-13:00 | 5E - **Lab. 47** - TPSIT | *Libero* |                       | 5E - **Lab. 47** - TPSIT | 5E - **Lab. 2** - INF  |                        |
-| 13:00-14:00 |                          | *Libero* |                       |                          | 5I - **Lab. 2** - GPOI |                        |
+| #           | LUNEDI                 | MARTEDI  | MERCOLEDI           | GIOVEDI                | VENERDI              | SABATO               |
+| ----------- | ---------------------- | -------- | ------------------- | ---------------------- | -------------------- | -------------------- |
+| 08:00-09:00 | 5F/SR - **Lab. 39**    | *Libero* | 4E/SR - **Lab. 39** |                        |                      | 5E/GPOI - **Lab. 2** |
+| 09:00-09:50 | 5F/SR - **Lab. 39**    | *Libero* | 4E/SR - **Lab. 39** |                        |                      | 5E/INF - **Lab. 2**  |
+| 10:00-11:00 |                        | *Libero* | 4M/SR - **Lab. 39** |                        | 5F/SR - **Lab. 39**  |                      |
+| 11:00-11:50 |                        | *Libero* | 4M/SR - **Lab. 39** | 5E/TPSIT - **Lab. 47** | 5E/INF - **Lab. 2**  |                      |
+| 12:00-13:00 | 5E/TPSIT - **Lab. 47** | *Libero* |                     | 5E/TPSIT - **Lab. 47** | 5E/INF - **Lab. 2**  |                      |
+| 13:00-14:00 |                        | *Libero* |                     |                        | 5I/GPOI - **Lab. 2** |                      |
 ### Insegnamenti
 
 #### > In corso — A.S. 2026/27
