@@ -1,7 +1,7 @@
 Attività laboratoriale: implementare il cifrario a matrice
 ===
 
-Implementare in C# l'algoritmo crittografico a trasposizione "cifrario a matrice". 
+Implementare in C# un cifrario a matrice (anche chiamato "cifrario a colonna", o "*Column Cipher*"). 
 
 Deve essere possibile eseguire le seguenti operazioni:
 
