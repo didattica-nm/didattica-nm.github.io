@@ -9,8 +9,8 @@ Gli algoritmi di crittografia sono numerosi, ma possono essere classificati in b
 		- codice binario
 - numero di chiavi utilizzate
 	- *la chiave utilizzata per cifrare è la stessa utilizzata per decifrare?*
-		- simmetrici
-		- asimmetrici
+		- cifrari simmetrici
+		- cifrari asimmetrici
 - logica di processo dei dati
 	- *come viene elaborato il testo da cifrare/decifrare?* 
 		- a blocchi
