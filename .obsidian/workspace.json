@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/risorse-online.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "risorse-online"
+              "title": "index"
+            }
+          },
+          {
+            "id": "27cd68ce086b2f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,27 +267,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0110c8a82c954e34",
+  "active": "27cd68ce086b2f45",
   "lastOpenFiles": [
-    "materials/blog/revised-blooms-handout.pdf",
+    "as2627/itt-pascal/4M/SR/index.md",
+    "index.md",
+    "as2627/itt-pascal",
+    "as2627/itt-pascal/4E/SR/index.md",
+    "as2627/itt-pascal/5E/GPOI/index.md",
+    "as2627/itt-pascal/5E/INF/index.md",
+    "as2627/itt-pascal/5F/SR/index.md",
+    "as2627/itt-pascal/5I/GPOI/index.md",
+    "as2627/itt-pascal/5E/TPSIT/index.md",
+    "index 1 2.md",
+    "index 1 1.md",
+    "index 1.md",
+    "utils/templates/class.md",
+    "as2627/itt-pascal/5I/GPOI",
+    "as2627/itt-pascal/5F/SR",
+    "as2627/itt-pascal/4E/SR",
+    "as2627/itt-pascal/4M/SR",
+    "as2627/itt-pascal/4E",
+    "as2627/itt-pascal/5I",
+    "as2627/itt-pascal/4M",
+    "as2627/itt-pascal/5F",
+    "as2627/itt-pascal/5E/INF",
     "blog/risorse-online.md",
-    "materials/blog/linee-guida-ite-afm.pdf",
-    "materials/blog/linee-guida-itt-info-e-tel.pdf",
     "materials/blog/linee-guida-info-e-tel.md",
     "materials/blog/linee-guida-info-e-tel.pdf.md",
     "navigation.md",
     "Leggi qui.md",
-    "materials/blog/attention-is-all-you-need.pdf",
-    "index.md",
     "assets/imgs/favicon.png",
     "assets/favicon.png",
     "assets/imgs/hamburger.png",
-    "assets/imgs",
-    "assets",
-    "extlib/js/formatter.js",
-    "extlib/fonts/PT_Sans/italic-PT_Sans-lat-400.woff2",
-    "extlib/fonts/PT_Sans/italic-PT_Sans-lat-ext-400.woff2",
-    "extlib/fonts/PT_Sans/italic-PT_Sans-cyr-ext-400.woff2",
     "as2526/4F-Pascal/index.md",
     "as2526/3M-Pascal/index.md",
     "favicon.png",
@@ -283,16 +308,9 @@
     "materials/blog/Attention.md",
     "web.spaggiari.eu.md",
     "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
-    "utils/templates/class.md",
     "as2526/3M-Pascal/UD/huffman/heap-impl.md",
     "as2526/3M-Pascal/UD/huffman/assets/max-heap-insert.png",
-    "2026-06-01.md",
-    "as2526/3M-Pascal/UD/huffman/huffman-encode.md",
-    "as2526/3M-Pascal/UD/huffman/huffman-tree-traversal.md",
     "as2526/3M-Pascal/UD/huffman/assets/navigazione-heap.png",
-    "as2526/3M-Pascal/UD/huffman/build-huffman-tree.md",
-    "as2526/3M-Pascal/UD/huffman/char-frequency.md",
-    "as2526/3M-Pascal/UD/huffman/assets/huffman-tree.png",
-    "GitLab.md"
+    "as2526/3M-Pascal/UD/huffman/assets/huffman-tree.png"
   ]
 }
