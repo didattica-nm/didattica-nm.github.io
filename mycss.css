@@ -102,10 +102,18 @@ a:not(.navbar-brand, .jumplink, .navbar-nav *)::before {
     background-image: url("assets/imgs/hamburger.png") !important;
 }
 
+
 table > thead > tr > th {
     text-align: center;
     background-color: black !important;
     color: var(--bs-secondary) !important;
+}
+
+table.table > thead tr th, 
+table.table > tbody tr td {
+    width: 100%;
+    min-width: max-content;
+    white-space: pre;
 }
 
 h1, h2, h3, h4, h5, h6, [class*="header"] {
