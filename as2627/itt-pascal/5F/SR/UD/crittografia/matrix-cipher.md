@@ -10,7 +10,7 @@ var key = "CARCIOFO";
 var cipher = new MatrixCipher(key);
 
 var encrypted = cipher.Encrypt("Costata e crostata");
-// "encrypted" should be: "o␣aCettrataots␣asc␣"
+// "encrypted" should be: "o␣aCettr@at@ao@ts@␣a@sc@"
  
 var decrypted = cipher.Decrypt(encrypted);
 // "decrypted" should be: "Costata␣e␣crostata"
