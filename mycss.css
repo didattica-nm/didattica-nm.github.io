@@ -109,13 +109,6 @@ table > thead > tr > th {
     color: var(--bs-secondary) !important;
 }
 
-table.table > thead tr th, 
-table.table > tbody tr td {
-    width: 100%;
-    min-width: max-content;
-    white-space: pre;
-}
-
 h1, h2, h3, h4, h5, h6, [class*="header"] {
     font-family: "Space Grotesk";
 }

@@ -1,4 +1,4 @@
-Classe 5E / a.s. 2026-27 — Gestione Progetto e Organizzazione di Impresa
+Classe 5E / a.s. 2026-27 — Gestione Progetto e Organizzazione d'Impresa
 ===
 
 Orario delle lezioni
