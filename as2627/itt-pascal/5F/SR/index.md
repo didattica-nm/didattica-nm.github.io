@@ -27,5 +27,7 @@ Registro delle lezioni
 
 Stessi argomenti segnati su **ClasseViva**.
 
-| DATA | ORE | AULA | ARGOMENTO |
-| ---- | --- | ---- | --------- |
+| DATA       | ORE           | AULA    | ARGOMENTO                                                      |
+| ---------- | ------------- | ------- | -------------------------------------------------------------- |
+| -          | -             | -       | -                                                              |
+| 25/09/2026 | 09:00 - 10:00 | Lab. 39 | Implementazione del cifrario a matrice in progetto C# Console. |
