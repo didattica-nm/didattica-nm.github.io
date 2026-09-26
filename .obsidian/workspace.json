@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2627/itt-pascal/5I/GPOI/index.md",
+                "file": "as2627/itt-pascal/5E/GPOI/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -281,8 +281,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b492e523fef8454",
+  "active": "01bb09258eae0970",
   "lastOpenFiles": [
+    "as2627/itt-pascal/5I/GPOI/index.md",
     "as2627/itt-pascal/5F/SR/index.md",
     "as2627/itt-pascal/5E/INF/index.md",
     "as2627/itt-pascal/5F/SR/UD/crittografia/matrix-cipher.md",
@@ -296,7 +297,6 @@
     "as2526/3M-Pascal/UD/huffman/build-huffman-tree.md",
     "as2627/itt-pascal/5F/SR/UD/crittografia",
     "as2627/itt-pascal/5F/SR/UD",
-    "as2627/itt-pascal/5I/GPOI/index.md",
     "as2627/itt-pascal/4M/SR/index.md",
     "as2627/itt-pascal",
     "as2627/itt-pascal/4E/SR/index.md",

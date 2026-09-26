@@ -22,5 +22,6 @@ Registro delle lezioni
 
 Stessi argomenti segnati su **ClasseViva**.
 
-| DATA | ORE | AULA | ARGOMENTO |
-| ---- | --- | ---- | --------- |
+| DATA       | ORE           | AULA   | ARGOMENTO                                                                                                                                            |
+| ---------- | ------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 26/09/2026 | 08:00 - 09:00 | Lab. 2 | Attività di laboratorio: Continuo spiegazione teorica di "Domanda, offerta e punto di equilibrio (libro A1.2 e A1.3)"; grafici su foglio di calcolo. |
