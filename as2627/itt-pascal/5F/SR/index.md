@@ -19,6 +19,7 @@ Materiale condiviso & attività
 
 ### UD: "Crittografia"
 
+- [\[Dispense\]: Creazione tramite command line di un progetto C#](UD/crittografia/dotnet-cli.md)
 - [\[Attività laboratoriale\] Parte #01: Modellazione di un progetto console sulla crittografia](UD/crittografia/project-design.md)
 - [\[Attività laboratoriale\] Parte #02: Implementazione del cifrario a matrice](UD/crittografia/matrix-cipher.md)
 

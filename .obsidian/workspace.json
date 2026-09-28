@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "as2627/itt-pascal/5E/GPOI/index.md",
+                "file": "as2627/itt-pascal/5F/SR/UD/crittografia/dotnet-cli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "dotnet-cli"
             }
           }
         ],
@@ -281,10 +281,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01bb09258eae0970",
+  "active": "3b492e523fef8454",
   "lastOpenFiles": [
-    "as2627/itt-pascal/5I/GPOI/index.md",
+    "as2627/itt-pascal/5F/SR/UD/crittografia/dotnet-cli.md",
+    "as2627/itt-pascal/5F/SR/UD/crittografia/setup.sh",
     "as2627/itt-pascal/5F/SR/index.md",
+    "as2627/itt-pascal/5E/GPOI/index.md",
+    "as2627/itt-pascal/5I/GPOI/index.md",
     "as2627/itt-pascal/5E/INF/index.md",
     "as2627/itt-pascal/5F/SR/UD/crittografia/matrix-cipher.md",
     "as2627/itt-pascal/5E/INF/UD/progettazione-db/cultural-events.md",
@@ -300,7 +303,6 @@
     "as2627/itt-pascal/4M/SR/index.md",
     "as2627/itt-pascal",
     "as2627/itt-pascal/4E/SR/index.md",
-    "as2627/itt-pascal/5E/GPOI/index.md",
     "as2627/itt-pascal/5E/TPSIT/index.md",
     "index 1 2.md",
     "index 1 1.md",
@@ -310,7 +312,6 @@
     "as2627/itt-pascal/5F/SR",
     "as2627/itt-pascal/4E/SR",
     "as2627/itt-pascal/4M/SR",
-    "as2627/itt-pascal/4E",
     "blog/risorse-online.md",
     "materials/blog/linee-guida-info-e-tel.md",
     "materials/blog/linee-guida-info-e-tel.pdf.md",
@@ -321,7 +322,6 @@
     "assets/imgs/hamburger.png",
     "favicon.png",
     "as2526/supplenze-pascal/index.md",
-    "privacy/index.md",
     "as2526/3M-Pascal/UD/huffman/assets/tree-traversal.png",
     "as2526/3M-Pascal/UD/huffman/assets/max-heap-insert.png",
     "as2526/3M-Pascal/UD/huffman/assets/navigazione-heap.png",
