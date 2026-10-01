@@ -141,6 +141,10 @@ blockquote {
     padding: 20px 1rem 20px 2rem;
 }
 
+blockquote p {
+    margin-bottom: 0;
+}
+
 li.dropdown-header {
     background-color: var(--bs-success);
     border-radius: .375rem;

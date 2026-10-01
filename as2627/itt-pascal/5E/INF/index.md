@@ -19,6 +19,7 @@ Materiale condiviso & attività
 ### UD: "Progettazione database relazionali"
 
 - [\[Attività laboratoriale\] Progettazione database per una compagnia teatrale](UD/progettazione-db/cultural-events.md)
+- [\[Attività laboratoriale\] Esame di stato 2025/26](UD/progettazione-db/esame2025.md)
 
 Registro delle lezioni
 ---
