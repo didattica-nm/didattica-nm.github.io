@@ -1,4 +1,4 @@
-Classe 4F / a.s. 2025-26 — Informatica
+Classe 5L / a.s. 2026-27 — TPSIT
 ===
 
 Orario delle lezioni
