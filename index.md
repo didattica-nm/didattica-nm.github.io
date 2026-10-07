@@ -46,6 +46,8 @@ Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per cia
 
 #### A.S. 2025/26
 
+- dal 12/mag/2026 al 03/giu/2026:
+
 |                   | Informazioni                                                                     |
 | ----------------- | -------------------------------------------------------------------------------- |
 | **Servizio**      | (*Supplenza breve*) B016 - Laboratorio di Scienze e Tecnologie Informatiche      |
