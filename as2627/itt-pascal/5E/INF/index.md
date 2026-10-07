@@ -28,5 +28,6 @@ Stessi argomenti segnati su **ClasseViva**.
 
 | DATA       | ORE           | AULA   | ARGOMENTO                                                                                                                                                                                                    |
 | ---------- | ------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 02/10/2026 | 11:00 - 13:00 | Lab. 2 | Attività di laboratorio: esercitazione su schemi E/R con esame di stato 2025.                                                                                                                                |
 | 26/09/2026 | 09:00 - 10:00 | Lab. 2 | Attività di laboratorio: correzione alla lavagna della progettazione concettuale dell'E/R relativo all'attività "Progettazione database per una compagnia teatrale". Proseguimento su DB Browser for SQLite. |
 | 25/09/2026 | 10:00 - 12:00 | Lab. 2 | Attività di laboratorio: progettazione di un database per una compagnia teatrale.                                                                                                                            |

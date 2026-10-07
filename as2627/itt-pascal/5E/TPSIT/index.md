@@ -22,5 +22,9 @@ Registro delle lezioni
 
 Stessi argomenti segnati su **ClasseViva**.
 
-| DATA | ORE | AULA | ARGOMENTO |
-| ---- | --- | ---- | --------- |
+| DATA           | ORE               | AULA        | ARGOMENTO                                                                                                                                                                                                                                                                                                                           |
+| -------------- | ----------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ~~01/10/2026~~ | ~~11:00 - 13:00~~ | ~~Lab. 47~~ | ~~-~~                                                                                                                                                                                                                                                                                                                               |
+| 28/09/2026     | 12:00 - 13:00     | Lab. 47     | Breve introduzione al concetto di container. Collegamento SSH a server Ubuntu virtualizzato tramite Virtual Box. Ripasso di alcuni comandi Linux base: whoami, pwd, ls, cd, mkdir, touch, cat, less. Utenti e gruppi: creazione di un utente base "studente" mediante comando adduser. Test dei permessi dell'utente appena creato. |
+
+
