@@ -10,7 +10,8 @@ Warning: Implementare quanto richiesto sviluppando il codice su più file: in pa
 
 ---
 
-## Esercizio 1: La classe `Circle`
+## Esercizio #01 
+### La classe `Circle`
 
 ### Consegna
 Crea una classe chiamata `Circle` per modellare un cerchio. 
@@ -66,7 +67,8 @@ public class CircleTests
 
 ---
 
-## Esercizio 2: La classe `Rectangle`
+## Esercizio #02 
+### La classe `Rectangle`
 
 ### Consegna
 Crea una classe chiamata `Rectangle`.
@@ -111,7 +113,8 @@ public class RectangleTests
 
 ---
 
-## Esercizio 3: La classe `Employee`
+## Esercizio #03 
+### La classe `Employee`
 
 ### Consegna
 Crea una classe `Employee` per modellare un dipendente.
@@ -165,8 +168,9 @@ public class EmployeeTests
 ```
 
 ---
+## Esercizio #04
 
-## Esercizio 4: La classe `Account`
+### La classe `Account`
 
 ### Consegna
 
