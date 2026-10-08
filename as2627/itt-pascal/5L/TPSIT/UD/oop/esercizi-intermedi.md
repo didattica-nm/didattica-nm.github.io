@@ -7,7 +7,7 @@ Questa seconda parte include esercizi su argomenti più avanzati come formattazi
 Warning: Implementare quanto richiesto sviluppando il codice su più file: in particolare, ad ogni classe corrisponde un file .cs con il medesimo nome (ad es: la classe `Circle` si troverà in `Circle.cs`)
 
 ---
-## Esercizio 05 
+## Esercizio #05 
 ### La classe `Date`
 
 ### Consegna
@@ -105,7 +105,7 @@ public class AuthorAndBookTests
 }
 ```
 
-## Esercizio 07
+## Esercizio #07
 ### `Person`, `Student` e `Staff`
 
 ### Consegna
