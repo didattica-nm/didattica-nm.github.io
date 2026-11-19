@@ -35,6 +35,8 @@ Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per cia
 | **Classi**        | [\[3BSIA-INF+EA\]](as2627/ite-agnelli/3B-SIA/INF+EA/index.md); [\[4BSIA-INF\]](as2627/ite-agnelli/4B-SIA/INF/index.md) |
 | **Extra**         | -                                                                                                                      |
 
+---
+
 - Dal 07/ott/2026 al 05/nov/2026:
 
 | #           | LUNEDI               | MARTEDI               | MERCOLEDI             | GIOVEDI               | VENERDI               | SABATO   |
@@ -54,6 +56,7 @@ Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per cia
 | **Classi**        | [\[5L-TPSIT\]](as2627/itt-pascal/5L/TPSIT/index.md); [\[5L-INF\]](as2627/itt-pascal/5L/INF/index.md); [\[4L-TPSIT\]](as2627/itt-pascal/4L/TPSIT/index.md); [\[4L-INF\]](as2627/itt-pascal/4L/INF/index.md); [\[5N-TPSIT\]](as2627/itt-pascal/5N/TPSIT/index.md); [\[5I-TPSIT\]](as2627/itt-pascal/5I/TPSIT/index.md) |
 | **Extra**         | -                                                                                                                                                                                                                                                                                                                    |
 
+---
 
 - Dal 25/sett/2026 al 07/ott/2026:
 
