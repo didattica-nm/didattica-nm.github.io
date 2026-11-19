@@ -12,12 +12,6 @@ Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per cia
 
 ### Orario delle lezioni
 
-### Insegnamenti
-
-#### > In corso — A.S. 2026/27
-
-- Dal 06/nov/2026 al 30/giu/2027:
-
 | #           | LUNEDI | MARTEDI | MERCOLEDI | GIOVEDI | VENERDI                           | SABATO                            |
 | ----------- | ------ | ------- | --------- | ------- | --------------------------------- | --------------------------------- |
 | 08:00-09:00 |        |         |           |         |                                   | 3BSIA/INF - **Aula X / 2° piano** |
@@ -26,6 +20,12 @@ Elenco, diviso per anno scolastico, di classi di cui sono stato docente. Per cia
 | 11:00-11:50 |        |         |           |         | 3BSIA/EA - **Aula X / 2° piano**  | 4BSIA/INF - **Aula X / 2° piano** |
 | 12:00-13:00 |        |         |           |         | 4BSIA/INF - **Aula X / 2° piano** | 4BSIA/INF - **Aula X / 2° piano** |
 | 13:00-14:00 |        |         |           |         |                                   |                                   |
+
+### Insegnamenti
+
+#### > In corso — A.S. 2026/27
+
+- Dal 06/nov/2026 al 30/giu/2027:
 
 |                   | Informazioni                                                                                                           |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
